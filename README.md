@@ -1,2 +1,2 @@
-# siskawedding.github.io
+# siskawedding
 wedding
